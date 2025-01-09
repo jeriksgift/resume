@@ -10,7 +10,12 @@ li{
     margin: 10px;
 }
 body {
-    background-color: #ff0095;
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    margin: 0;
 }
 .header {
     background-color: #e60000;
